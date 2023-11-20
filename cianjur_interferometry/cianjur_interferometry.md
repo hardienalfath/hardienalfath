@@ -2,6 +2,8 @@
 
 ![interferogram](resource/interferogram.JPG)
 
+
+
 On 21 November 2022, a magnitude 5.6 SR earthquake struck the city of Cianjur, West Java, Indonesia and the nearby areas.
 
 The goal of this work is to provide interferogram created from a pair of Sentinel-1A satellite. Sentinel-1 has temporal resolution of 6 days, with 12 days repeat cycle at equator with one satellite. The first image was obtained 2 days after the earthquake (23 November 2022), and the second one was taken on 11 November 2022, about 12 days prior the first image.
@@ -100,6 +102,8 @@ for i in range(len(input_files)):
 ```
 
 
+
+
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -154,15 +158,22 @@ for i in range(len(input_files)):
 
 
 
+
+
+
     
 ![png](cianjur_interferometry_files/cianjur_interferometry_9_1.png)
     
 
 
 
+
+
+
     
 ![png](cianjur_interferometry_files/cianjur_interferometry_9_2.png)
     
+
 
 
 ### TOPSAR-SPLIT
@@ -414,9 +425,12 @@ plt.imshow(ifg_VV_data,cmap='gray',vmin=-3.964,vmax=3.997)
 
 
 
+
+
     
 ![png](cianjur_interferometry_files/cianjur_interferometry_42_1.png)
     
+
 
 
 ### Write/Export to Other formats
