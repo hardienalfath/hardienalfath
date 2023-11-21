@@ -1,4 +1,4 @@
-# Hardien Alfath's Portfolio
+# Work and Project Portfolio
 
 Hello and Welcome! My name is Hardien a Geoinformatics Engineer, and I have worked mostly with geospatial data. This portfolio is aimed to showcase the projects that I did, which of course mostly correlate towards Geospatial use case.
 
